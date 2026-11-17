@@ -1,0 +1,10 @@
+# Bài 1: Giới thiệu bản thân
+
+ho_ten = input("Nhập họ tên: ")
+tuoi = int(input("Nhập tuổi: "))
+nganh_hoc = input("Nhập ngành học: ")
+
+print("THÔNG TIN SINH VIÊN")
+print("Họ tên:", ho_ten)
+print("Tuổi:", tuoi)
+print("Ngành học:", nganh_hoc)
